@@ -1,0 +1,14 @@
+target/
+javax/
+*.png
+*.zip
+jenkins*.*
+Jenkins*.*
+.settings/
+.classpath
+.project
+javax*.*
+Dockerfile
+Jenkinsfile
+Jenkinsfile-azureappservice-container
+Jenkinsfile-azureappservice-ftp
