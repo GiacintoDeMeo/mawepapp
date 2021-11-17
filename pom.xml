@@ -49,7 +49,7 @@
                 <version>2.5.3</version>
                 <configuration>
                     <username>GiacintoDeMeo</username>
-                    <password>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</password>
+                    <password>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</password>
                     <tagBase>https://github.com/GiacintoDeMeo/mawepapp.git</tagBase>
                     <branchBase>https://github.com/GiacintoDeMeo/mawepapp.git</branchBase>
                     <reportPlugins>
